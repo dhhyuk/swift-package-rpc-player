@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HandSign",
+        "repositoryURL": "https://github.com/dhhyuk/swift-package-rpc-handsign.git",
+        "state": {
+          "branch": null,
+          "revision": "e4d79c6d32514a91dfef15e9e3cf02f58d1220df",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
